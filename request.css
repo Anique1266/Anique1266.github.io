@@ -1,0 +1,19 @@
+body{
+    background-image: url('bgd.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  
+}
+
+.flex-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    color: blue;
+    font-size: 50;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
