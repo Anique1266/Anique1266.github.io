@@ -1,0 +1,13 @@
+body{
+    background-image: url('bgd.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  
+}
+.navbar{
+    font-size: 50;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: black;
+}
